@@ -42,7 +42,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 ### Reverse Engineering
 * **[Ghidra](https://ghidra-sre.org/)** : a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate.
 
-* **[radare2](https://ghidra-sre.org/)** : A free/libre toolchain for easing several low level tasks like forensics, software reverse engineering, exploiting, debugging, ... 
+* **[radare2](https://github.com/radareorg/radare2)** : A free/libre toolchain for easing several low level tasks like forensics, software reverse engineering, exploiting, debugging,... 
   
 
 ### Web
@@ -83,7 +83,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 * **[Steghide](https://github.com/StefanoDeVuono/steghide)** : a steganography program that is able to hide data in various kinds of image- and audio-files.
 * **[Audacity](https://www.audacityteam.org/download/)** : the premiere open-source audio file and waveform-viewing tool.
   
-* **[WavSteg](https://github.com/ragibson/Steganography#LSBSteg)** : a python3 tool that can hide data and files in wav files and can also extract data from wav files.
+* **[WavSteg](https://github.com/samolds/wavsteg)** : a python3 tool that can hide data and files in wav files and can also extract data from wav files.
 * **[OpenStego](https://github.com/syvaidya/openstego)** : a steganography application that provides Data Hiding and Watermarking.
 
 * **[pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html)** : verifies the integrity of PNG, JNG and MNG files by checking the internal 32-bit CRCs and decompressing the image data.
@@ -150,7 +150,7 @@ _**[more...](https://github.com/m0nad/awesome-privilege-escalation)**_
 
 * **[Shodan](https://www.shodan.io/)** : the world's first search engine for Internet-connected devices.
   
-* **[BinaryEdge](https://www.shodan.io/)** : a custom built platform to scan, acquire and classify public Internet data.
+* **[BinaryEdge](https://www.binaryedge.io/)** : a custom built platform to scan, acquire and classify public Internet data.
   
 * **[whopostedwhat](https://whopostedwhat.com/)** : offers reporters a way to similarly search keywords and find the accounts posting about a topic or event. 
   
@@ -175,7 +175,7 @@ _**[more...](https://osintframework.com/)**_
 
 * **[WhatsaApp-spammer](https://github.com/DaniAffCH/WhatsaApp-spammer)** : A simple python script that spams a message to a contact as many times as you want.
 
-* **[RouterSploit](https://github.com/entynetproject/quack)** : an open-source exploitation framework dedicated to embedded devices.
+* **[RouterSploit](https://github.com/threat9/routersploit)** : an open-source exploitation framework dedicated to embedded devices.
   
 * **[moroccan numbers]()** : site:wa.me "+212"
   
