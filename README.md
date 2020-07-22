@@ -73,6 +73,13 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 * **[Sublist3r](https://github.com/aboul3la/Sublist3r)** : a python tool designed to enumerate subdomains of websites using OSINT.
 
+* **[subbrute](https://github.com/TheRook/subbrute)** : a community driven project with the goal of creating the fastest,and most accurate subdomain enumeration tool.
+
+* **[DNSrecon](https://github.com/darkoperator/dnsrecon)** : a powerful DNS enumeration tool, one of it’s feature is to conduct dictionary based sub-domain enumeration using a pre-defined wordlist.
+
+* **[dnsdumpster](https://dnsdumpster.com)** : a domain research tool to find host-related information.
+
+
 ### Stegano
 * **[Steganographic Decoder](https://futureboy.us/stegano/decinput.html)**
 
