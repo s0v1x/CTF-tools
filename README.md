@@ -138,6 +138,7 @@ _**[more...](https://github.com/DominicBreuker/stego-toolkit)**_
   
 * **[LinEnum](https://github.com/Open-Sec/LinEnum)** : a Scripted Local Linux Enumeration & Privilege Escalation Checks.
 
+* **[PEASS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite)** : Privilege Escalation Awesome Scripts SUITE.
 
 * **[GTFOBins](https://gtfobins.github.io/)** : a curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.
 
