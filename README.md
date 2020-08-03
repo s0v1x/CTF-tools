@@ -79,6 +79,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 
 * **[dnsdumpster](https://dnsdumpster.com)** : a domain research tool to find host-related information.
 
+* **[FavFreak](https://github.com/devanshbatham/FavFreak)** : a tool for recon using Favicon hashes, It sorts the domains/subdomains/IPs according to their favicon hashes.
 
 ### Stegano
 * **[Steganographic Decoder](https://futureboy.us/stegano/decinput.html)**
