@@ -175,6 +175,10 @@ _**[more...](https://github.com/m0nad/awesome-privilege-escalation)**_
 
 * **[theHarvester](https://github.com/laramies/theHarvester)** : a tool gathers emails, names, subdomains, IPs and URLs using multiple public data sources.
 
+* **[TinEye](https://tineye.com/)** : a reverse image search engine.
+
+* **[YandexImages](https://yandex.com/images/)** : a reverse image search engine.
+
 _**[more...](https://osintframework.com/)**_
 
 ### Others
